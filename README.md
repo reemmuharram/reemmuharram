@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍🎓 I'm a Fresh Graduate from the Faculty of Engineering, Electronics and Communications Engineering Dept., Mansoura University<br><br>💻 I am interested in studying Machine Learning, Deep Learning<br><br>💭 Currently learning more about NLP and LSTMs!<br>
+👩🏻‍🎓 I'm a Fresh Graduate from the Faculty of Engineering, Electronics and Communications Engineering Dept., Mansoura University<br><br>💻 I am interested in studying Machine Learning, Deep Learning<br><br>💭 Currently learning more about NLP and CV<br>
 
 
 ## 🌐 Socials:
