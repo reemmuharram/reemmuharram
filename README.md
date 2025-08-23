@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am interested in studying Machine Learning, Deep Learning<br><br>💭 Currently learning more about NLP and CV<br>
+💻 AI Engineer - Entry Level<br><br>💭 NLP and CV Enthusiast<br>
 
 
 ## 🌐 Socials:
