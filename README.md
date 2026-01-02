@@ -37,21 +37,8 @@
   <img src="https://skillicons.dev/icons?i=streamlit" height="60" />
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemmuharram) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reemmuharram)
 <div align="center">
-  <a href="https://linkedin.com/in/reem-muharram-5976b1248">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://x.com/reemmuharram">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <a href="https://www.kaggle.com/reemmuharram">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-</div>
-
-###
-
-<div align="center">.
   
 ![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)<br/>
