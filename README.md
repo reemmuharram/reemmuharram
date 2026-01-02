@@ -1,26 +1,61 @@
-# 💫 About Me:
-💻 AI Engineer - Entry Level<br><br>💭 NLP and CV Enthusiast<br>
+<h1 align="center">Hey 👋 I'm Reem</h1>
 
+<h3 align="center">AI Engineer (Entry Level) · NLP & Computer Vision Enthusiast</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemmuharram) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reemmuharram)
+###
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="60" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="60" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="60" alt="scikit-learn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="60" alt="anaconda logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://linkedin.com/in/reem-muharram-5976b1248" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://x.com/reemmuharram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=X&color=000000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.kaggle.com/reemmuharram" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=Kaggle&color=20BEFF&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=reemmuharram&theme=dark&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=reemmuharram&theme=dark&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+       src="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/pacman-contribution-graph.svg">
+</picture>
 
+###
 
-
-
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0" />
+</div>
