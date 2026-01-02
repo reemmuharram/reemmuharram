@@ -37,18 +37,15 @@
   <img src="https://skillicons.dev/icons?i=streamlit" height="60" />
 </div>
 
-###
-
 <div align="center">
-  <!-- Socials -->
   <a href="https://linkedin.com/in/reem-muharram-5976b1248">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://x.com/reemmuharram">
-    <img src="https://img.shields.io/static/v1?message=X&logo=X&color=000000&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://www.kaggle.com/reemmuharram">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=Kaggle&color=20BEFF&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 
