@@ -62,7 +62,3 @@
 </picture>
 
 ###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0"/>
-</div>
