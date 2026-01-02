@@ -14,37 +14,44 @@
 
 ###
 
-<div align="center">
-  <!-- Tech stack icons -->
-  <img src="https://skillicons.dev/icons?i=python" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=opencv" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=streamlit" height="60" />
-</div>
+<h2 align="center">💻 Tech Stack</h2>
 
-## 🌐 Socials:
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemmuharram) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reemmuharram)
+
+  <!-- Core / Language -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+  <!-- ML / DL -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+  <!-- Scientific Computing -->
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+  <!-- Apps / Backend -->
+  <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=shadow_green&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
 ###
 
 <picture>
