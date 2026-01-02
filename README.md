@@ -5,45 +5,45 @@
 
 <div align="center">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=anaconda" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=git" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </div>
 
 ###
 
 <div align="center">
   <!-- ML / DS -->
-  <img src="https://skillicons.dev/icons?i=pytorch" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=numpy" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=pandas" height="40"/>
 </div>
 
 ###
 
 <div align="center">
   <!-- Viz / Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="48"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="48"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="48"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" height="48"/>
+  <img src="https://skillicons.dev/icons?i=matplotlib" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=plotly" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=keras" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
+  <img width="8"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" height="40"/>
 </div>
 
 ###
@@ -75,6 +75,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://media.tenor.com/6dJ1Zx0E3LwAAAAC/hacker-cat-bongo-cat.gif" height="160" alt="hacker cat"/>
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -83,9 +89,3 @@
   <img alt="snake contribution graph"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0"/>
-</div>
