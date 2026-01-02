@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- Core -->
-  <img src="https://skillicons.dev/icons?i=python" height="35"/>
+  <img src="https://skillicons.dev/icons?i=python" height="46"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=fastapi" height="46"/>
   <img width="10"/>
@@ -52,7 +52,7 @@
   <a href="https://linkedin.com/in/reem-muharram-5976b1248">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://x.com/reemmuharram">
+  <a href="https://x.com/8bitpixelray">
     <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://www.kaggle.com/reemmuharram">
@@ -83,9 +83,3 @@
   <img alt="snake contribution graph"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0"/>
-</div>
