@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Reem</h1>
+<h1 align="center">Hello! I'm Reem</h1>
 <h3 align="center">💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast</h3>
 
 ###
@@ -50,7 +50,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -60,5 +60,6 @@
   <img alt="snake contribution graph"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
+</div>
 
 ###
