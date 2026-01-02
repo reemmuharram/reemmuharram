@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Hacker penguin smashing keyboard -->
   <img 
-    src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"
+    src="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292"
     height="180"
     alt="hacker penguin smashing keyboard"
   />
