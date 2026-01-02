@@ -6,11 +6,12 @@
 <div align="center">
   <!-- Hacker penguin smashing keyboard -->
   <img 
-    src="https://tenor.com/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292"
+    src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"
     height="180"
     alt="hacker penguin smashing keyboard"
   />
 </div>
+
 
 ###
 
