@@ -68,19 +68,19 @@
 
 ###
 
-<!-- Working snake contribution graph -->
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/github-contribution-grid-snake.svg">
-  <img 
-    alt="github contribution snake" 
-    src="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake contribution graph"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0"/>
 </div>
