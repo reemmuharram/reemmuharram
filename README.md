@@ -53,17 +53,11 @@
 
 <div align="center">
   <!-- GitHub stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dracula&hide_border=false" 
-    height="150"
-  />
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dracula&hide_border=false" 
-    height="150"
-  />
-</div>
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
 
 ###
 
