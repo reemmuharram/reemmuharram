@@ -4,11 +4,11 @@
 ###
 
 <div align="center">
-  <!-- Hacker cat smashing keyboard -->
+  <!-- Hacker penguin smashing keyboard -->
   <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThjYzY5a2xwZ3Y4dW5jbGZxY2M4NnA2MWR2aHZ0aHlnb2l6bWZqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif"
+    src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"
     height="180"
-    alt="hacker cat smashing keyboard"
+    alt="hacker penguin smashing keyboard"
   />
 </div>
 
@@ -68,7 +68,7 @@
 
 ###
 
-
+<!-- Working snake contribution graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/reemmuharram/reemmuharram/output/github-contribution-grid-snake-dark.svg">
