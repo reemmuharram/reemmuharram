@@ -37,13 +37,12 @@
   <img src="https://skillicons.dev/icons?i=streamlit" height="60" />
 </div>
 
+## 🌐 Socials:
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemmuharram) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reemmuharram)
-  <div align="center">
-    
-  ![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/reemmuharram) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)](https://www.kaggle.com/reemmuharram)
 
 </div>
 ###
