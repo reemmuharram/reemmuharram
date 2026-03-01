@@ -4,18 +4,6 @@
 ###
 
 <div align="center">
-  <!-- Hacker penguin smashing keyboard -->
-  <img 
-    src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif"
-    height="180"
-    alt="hacker penguin smashing keyboard"
-  />
-</div>
-
-
-###
-
-<div align="center">
 
   <!-- Core / Language -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
