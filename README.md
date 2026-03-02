@@ -1,14 +1,11 @@
 ## 💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast
 
----
-
 ## 📖 About Me
 
 - 🎓 **Entry-level Engineer** passionate about building intelligent systems.
 - 🔭 Currently focused on **NLP and Computer Vision** projects.
 - 🌱 Deepening my knowledge in **Large Language Models (LLMs)**.
 
----
 ## Profile Views
 
 [![Profile Views](https://komarev.com/ghpvc/?username=reemmuharram&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/reemmuharram)
