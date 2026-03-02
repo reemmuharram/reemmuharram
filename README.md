@@ -1,7 +1,7 @@
 # 💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0" alt="Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=reemmuharram.reemmuharram" />
 </div>
 
 ---
