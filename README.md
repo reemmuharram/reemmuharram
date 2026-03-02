@@ -1,4 +1,4 @@
-# 💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast
+## 💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast
 
 ## 📖 About Me
 - 🎓 **Entry-level Engineer** passionate about building intelligent systems.
