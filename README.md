@@ -13,10 +13,9 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reem-muharram-5976b1248/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reemmuharraam@gmail.com)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +35,6 @@
 
 <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -45,9 +43,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=reemmuharram&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=reemmuharram&icon=9&color=3)](https://visitcount.itsvg.in)
 
 
 ## 🐍 Contribution Activity
