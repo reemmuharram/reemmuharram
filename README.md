@@ -7,12 +7,9 @@
 
 ---
 
-## 📖 About Me
-- 🎓 Recently graduated/transitioned into **AI & Machine Learning**.
-- 🔭 Currently working on **[Insert Project Name]**.
+## 📖 About:
+- 🎓 Recently graduated Electronics and Communications Engineer
 - 🌱 Learning more about **LLMs and MLOps**.
-- 💬 Ask me about **Computer Vision** or **Python**.
-
 ---
 
 ## 🛠️ Tech Stack
