@@ -10,8 +10,6 @@
 - 🎓 **Entry-level Engineer** passionate about building intelligent systems.
 - 🔭 Currently focused on **NLP and Computer Vision** projects.
 - 🌱 Deepening my knowledge in **Large Language Models (LLMs)**.
-- 💬 Ask me about **Machine Learning** or **Python**.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -33,10 +31,12 @@
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" height="170px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px"/>
-
-  <br/><br/>
-
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350px"/></td>
+    </tr>
+  </table>
   <img src="https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=shadow_green&hide_border=false" width="100%"/>
 </div>
 
