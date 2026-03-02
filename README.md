@@ -9,6 +9,10 @@
 - 🌱 Deepening my knowledge in **Large Language Models (LLMs)**.
 
 ---
+## Profile Views
+
+[![Profile Views](https://komarev.com/ghpvc/?username=reemmuharram&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/reemmuharram)
+[![](https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 Connect with Me
 
@@ -44,13 +48,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## Profile Views
-
-[![Profile Views](https://komarev.com/ghpvc/?username=reemmuharram&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/reemmuharram)
-[![](https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
