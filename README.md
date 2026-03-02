@@ -34,17 +34,13 @@
 
 ---
 
-### 📈 GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" width="400px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reemmuharram&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="350px"/></td>
-    </tr>
-  </table>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=reemmuharram&theme=shadow_green&hide_border=false" width="100%"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=reemmuharram&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
