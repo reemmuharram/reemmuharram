@@ -1,4 +1,4 @@
-<h1 align="center">💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast</h1>
+<h3 align="center">💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast</h3>
 
 ###
 
