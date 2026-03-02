@@ -1,9 +1,4 @@
 # 💻 Entry-Level AI Engineer | 💭 NLP & Computer Vision Enthusiast
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=reemmuharram.reemmuharram" />
-</div>
-
 ---
 
 ## 📖 About Me
